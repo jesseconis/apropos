@@ -10,6 +10,7 @@
     "tauri": "tauri"
   },
   "dependencies": {
+    "@mantine/colors-generator": "^8.1.2",
     "@mantine/core": "^8.1.2",
     "@mantine/dropzone": "^8.1.2",
     "@mantine/hooks": "^8.1.2",
@@ -28,6 +29,7 @@
     "@tiptap/pm": "^2.23.1",
     "@tiptap/react": "^2.23.1",
     "@tiptap/starter-kit": "^2.23.1",
+    "chroma-js": "^3.1.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tippy.js": "^6.3.7"
